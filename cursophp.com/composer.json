@@ -1,0 +1,15 @@
+{
+    "name": "nodestudio/composer",
+    "description": "Estudo PHp",
+    "require": {
+        "dompdf/dompdf": "^0.8.3",
+        "pagseguro/pagseguro-php-sdk": "^5.0",
+        "cocur/slugify": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Rafael Luis Alves",
+            "email": "rafaell.alves16062002@gmail.com"
+        }
+    ]
+}
